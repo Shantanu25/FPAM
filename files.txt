@@ -1,0 +1,8 @@
+randist.v
+Denormilization.v
+normalization.v
+fpmul-1.v
+fpadd-1.v
+sin.v
+sqrtln.v
+DW02_mult_4_stage.v

@@ -1,0 +1,12 @@
+randist script run started on Tue Apr 19 15:35:32 2016
+run on machine eecad47.engr.sjsu.edu
+
+Run with a clock period of 4.54545454545
+student names
+  sai akhil ayyagari  4155
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the randist run
